@@ -1,0 +1,140 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 775px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 31px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 572px;
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("images/vista-frontal-concepto-covid-19_23-2148560172.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 572px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 42px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  font-family: "Open Sans", sans-serif;
+  margin: 54px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 675px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -80px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 152px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 472px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 472px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 565px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -190px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 262px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 362px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 846px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 247px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 543px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1178px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 12px;
+    margin-left: 32px;
+    margin-right: 32px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 67px;
+    margin-bottom: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 342px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 718px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 12px;
+  }
+}
